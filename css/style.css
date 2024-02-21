@@ -1,0 +1,168 @@
+#menu{
+	width: 100%;
+	height: 80px;
+	background: green;
+	position: absolute;
+}
+#menu ul{
+	float: left;
+}
+#menu1{
+	width: 100%;
+	height: 50px;
+	position: absolute;
+
+}
+#menu1 ul li{
+	display: inline-block;
+	margin-left: 20%;
+}
+#menu2{
+	width: 100%;
+	height: 50px;
+	position: absolute;
+}
+#menu2 ul{
+	padding-left: 95%;
+	
+}
+#block{
+	width: 100%;
+	height: 700px;
+	background: url(../img/WDF_2641232.jpg)center/cover;
+	position: absolute;
+	background size: cover;
+	background direction: fixed, 
+	background repeat: no-repeat;
+	margin-top: 80px; 
+}
+#v{
+
+}
+
+#w{
+	width: 50%;
+	height: 40px;
+	background: gray;
+	position: absolute;
+	margin-left: 25%;
+	margin-top: 160px; 
+}
+#w ul li{
+	display: inline-block;
+	padding-left:20%;
+
+}
+#block1{
+	width: 50%;
+	height: 410px;
+	background: white;
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 25%; 
+
+}
+.block{
+	width: 100%;
+	height: 650px;
+	background: red;
+	position: absolute;
+	margin-top: 780px; 
+
+}
+.block1{
+	width: 100%;
+	height: 80px;
+	background: yellow;
+	position: absolute;
+
+}
+.block2{
+	width: 20%;
+	height: 320px;
+	background: green;
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 18%;
+	}
+
+	.block3{
+	width: 20%;
+	height: 320px;
+	background: black;
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 40%;
+	}
+	.block4{
+	width: 20%;
+	height: 320px;
+	background: white;
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 62%;
+	}
+	#block2{
+		width: 100%;
+		height: 700px;
+		background: gray;
+		margin-top: 1420px;
+		position: absolute;
+
+	}
+.block5{
+	width: 100%;
+	height: 650px;
+	background: red;
+	position: absolute;
+	margin-top: 2100px; 
+
+}
+.block6{
+	width: 100%;
+	height: 80px;
+	background: yellow;
+	position: absolute;
+
+}
+.block7{
+	width: 20%;
+	height: 320px;
+	background: green;
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 18%;
+	}
+
+	.block8{
+	width: 20%;
+	height: 320px;
+	background: black;
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 40%;
+	}
+	.block9{
+	width: 20%;
+	height: 320px;
+	background: white;
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 62%;
+	}
+	#bloc1{
+		width: 100%;
+		height: 500px;
+		background: black;
+		margin-top: 2750px;
+		position: absolute;
+	}
+	#bloc2{
+		width: 100%;
+		height: 500px;
+		background: red;
+		margin-top: 3200px;
+		position: absolute;
+	}
+
+
